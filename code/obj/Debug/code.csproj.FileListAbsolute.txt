@@ -1,0 +1,59 @@
+E:\database proj\code\bin\Debug\code.exe.config
+E:\database proj\code\bin\Debug\code.exe
+E:\database proj\code\bin\Debug\code.pdb
+E:\database proj\code\obj\Debug\code.csprojAssemblyReference.cache
+E:\database proj\code\obj\Debug\code.Properties.Resources.resources
+E:\database proj\code\obj\Debug\code.csproj.GenerateResource.cache
+E:\database proj\code\obj\Debug\code.exe
+E:\database proj\code\obj\Debug\code.pdb
+E:\database proj\code\obj\Debug\code.Main.resources
+E:\database proj\code\obj\Debug\code.Register.resources
+E:\database proj\code\obj\Debug\code.Topup.resources
+E:\database proj\code\obj\Debug\code.Search.resources
+E:\database proj\code\obj\Debug\code.Login.resources
+E:\database proj\code\obj\Debug\code.Manage.resources
+D:\Desktop\computer-management-system-master\code\bin\Debug\code.exe.config
+D:\Desktop\computer-management-system-master\code\bin\Debug\code.exe
+D:\Desktop\computer-management-system-master\code\bin\Debug\code.pdb
+D:\Desktop\computer-management-system-master\code\obj\Debug\code.csprojAssemblyReference.cache
+D:\Desktop\computer-management-system-master\code\obj\Debug\code.Login.resources
+D:\Desktop\computer-management-system-master\code\obj\Debug\code.Main.resources
+D:\Desktop\computer-management-system-master\code\obj\Debug\code.Manage.resources
+D:\Desktop\computer-management-system-master\code\obj\Debug\code.Properties.Resources.resources
+D:\Desktop\computer-management-system-master\code\obj\Debug\code.Register.resources
+D:\Desktop\computer-management-system-master\code\obj\Debug\code.Search.resources
+D:\Desktop\computer-management-system-master\code\obj\Debug\code.Topup.resources
+D:\Desktop\computer-management-system-master\code\obj\Debug\code.csproj.GenerateResource.cache
+D:\Desktop\computer-management-system-master\code\obj\Debug\code.csproj.CoreCompileInputs.cache
+D:\Desktop\computer-management-system-master\code\obj\Debug\code.exe
+D:\Desktop\computer-management-system-master\code\obj\Debug\code.pdb
+D:\Desktop\数据库课设\code\bin\Debug\code.exe.config
+D:\Desktop\数据库课设\code\bin\Debug\code.exe
+D:\Desktop\数据库课设\code\bin\Debug\code.pdb
+D:\Desktop\数据库课设\code\obj\Debug\code.csprojAssemblyReference.cache
+D:\Desktop\数据库课设\code\obj\Debug\code.Login.resources
+D:\Desktop\数据库课设\code\obj\Debug\code.Main.resources
+D:\Desktop\数据库课设\code\obj\Debug\code.Manage.resources
+D:\Desktop\数据库课设\code\obj\Debug\code.Properties.Resources.resources
+D:\Desktop\数据库课设\code\obj\Debug\code.Register.resources
+D:\Desktop\数据库课设\code\obj\Debug\code.Search.resources
+D:\Desktop\数据库课设\code\obj\Debug\code.Topup.resources
+D:\Desktop\数据库课设\code\obj\Debug\code.csproj.GenerateResource.cache
+D:\Desktop\数据库课设\code\obj\Debug\code.csproj.CoreCompileInputs.cache
+D:\Desktop\数据库课设\code\obj\Debug\code.exe
+D:\Desktop\数据库课设\code\obj\Debug\code.pdb
+D:\Desktop\大学课程\大三上\数据库课设\sqlHomeWeek\code\bin\Debug\code.exe.config
+D:\Desktop\大学课程\大三上\数据库课设\sqlHomeWeek\code\bin\Debug\code.exe
+D:\Desktop\大学课程\大三上\数据库课设\sqlHomeWeek\code\bin\Debug\code.pdb
+D:\Desktop\大学课程\大三上\数据库课设\sqlHomeWeek\code\obj\Debug\code.csprojAssemblyReference.cache
+D:\Desktop\大学课程\大三上\数据库课设\sqlHomeWeek\code\obj\Debug\code.Login.resources
+D:\Desktop\大学课程\大三上\数据库课设\sqlHomeWeek\code\obj\Debug\code.Main.resources
+D:\Desktop\大学课程\大三上\数据库课设\sqlHomeWeek\code\obj\Debug\code.Manage.resources
+D:\Desktop\大学课程\大三上\数据库课设\sqlHomeWeek\code\obj\Debug\code.Properties.Resources.resources
+D:\Desktop\大学课程\大三上\数据库课设\sqlHomeWeek\code\obj\Debug\code.Register.resources
+D:\Desktop\大学课程\大三上\数据库课设\sqlHomeWeek\code\obj\Debug\code.Search.resources
+D:\Desktop\大学课程\大三上\数据库课设\sqlHomeWeek\code\obj\Debug\code.Topup.resources
+D:\Desktop\大学课程\大三上\数据库课设\sqlHomeWeek\code\obj\Debug\code.csproj.GenerateResource.cache
+D:\Desktop\大学课程\大三上\数据库课设\sqlHomeWeek\code\obj\Debug\code.csproj.CoreCompileInputs.cache
+D:\Desktop\大学课程\大三上\数据库课设\sqlHomeWeek\code\obj\Debug\code.exe
+D:\Desktop\大学课程\大三上\数据库课设\sqlHomeWeek\code\obj\Debug\code.pdb
